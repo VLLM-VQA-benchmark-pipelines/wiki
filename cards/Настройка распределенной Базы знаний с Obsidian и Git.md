@@ -16,6 +16,12 @@
 git clone git@github.com:medphisiker/multimodal_models_for_docs_wiki.git
 ```
 
+Настройте свое `имя` и `email` для данного git-репозитория, выполнив команду:
+```
+git config --local user.name "YourName YouSurname"
+git config --local user.email "your@email.adress"
+```
+
 Эта директория станет хранилищем для всех файлов и настроек `Obsidian`, она станет его `Vault`.
 
 Далее будем называть эту папку `Obsidian Git Vault`.
