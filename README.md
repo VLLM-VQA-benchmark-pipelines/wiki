@@ -4,4 +4,5 @@
 
 Чтобы настроить Базу знаний смотри документ [Настройка распределенной Базы знаний с Obsidian и Git](cards/Настройка%20распределенной%20Базы%20знаний%20с%20Obsidian%20и%20Git.md).
 
-Настройка в видео записи с демонстрацией работы в Obsidian ([ссылка на YouTube](https://youtu.be/v-4f7M84a4M)).
+* Настройка в видео записи с демонстрацией работы в Obsidian ([ссылка на YouTube](https://youtu.be/v-4f7M84a4M)).
+* Ссылка на плейлист "Распределенная работа в Obsidian" ([ссылка на Youtube](https://www.youtube.com/playlist?list=PL71idmSpGAF18vcFmL17-zLwCCUySTTk7))
