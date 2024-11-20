@@ -106,7 +106,6 @@ tree
 	bare = false
 	autocrlf = false
 	trustctime = false
-	[core]
 ```
 
 > У разных версий `git` будут отличаться знаки разделителя блоков в форматировании файла `.git/config`.
