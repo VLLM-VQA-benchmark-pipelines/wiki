@@ -63,15 +63,15 @@ tree
 
 Вам нужно будет переключится на хранилище указав нашу папку `Obsidian Git Vault`.
 
-![manage_vaults](../repo_pics/manage_vaults.jpg)
+![manage_vaults](../repo_pics/Настройка%20распределенной%20Базы%20знаний%20с%20Obsidian%20и%20Git-20241120.jpg)
 
 Если программы `Obsidian` ранее не было у вас на ПК она сама при своем первом запуске предложит Вам выбрать папку для хранилища.
 ## Шаг 2 Выбираем папку `Obsidian Git Vault` как хранилище
 
-![chose_your_vault_1](../repo_pics/chose_your_vault_1.jpg)
+![chose_your_vault_1](../repo_pics/Настройка%20распределенной%20Базы%20знаний%20с%20Obsidian%20и%20Git-20241120-1.jpg)
 
 
-![chose_your_vault_2](../repo_pics/chose_your_vault_2.jpg)
+![chose_your_vault_2](../repo_pics/Настройка%20распределенной%20Базы%20знаний%20с%20Obsidian%20и%20Git-20241120-2.jpg)
 ## Шаг 3 Доверится автору и включить плагины
 
 После выбора папки `Obsidian Git Vault` в качестве хранилища для заметок, появится окно.
@@ -82,7 +82,7 @@ tree
 
 Соглашаемся с активацией сторонних плагинов внутри нашего хранилища.
 
-![Trust_the_author_and_enable_plugins](../repo_pics/Trust_the_author_and_enable_plugins.jpg)
+![Trust_the_author_and_enable_plugins](../repo_pics/Настройка%20распределенной%20Базы%20знаний%20с%20Obsidian%20и%20Git-20241120-3.jpg)
 ## Шаг 4 Настраиваем Git
 
 > За этот шаг выражаем благодарность Юлии ([ссылка на профиль GitHub](https://github.com/YuliaOv22))
