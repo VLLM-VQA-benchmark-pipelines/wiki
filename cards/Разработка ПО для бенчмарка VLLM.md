@@ -3,9 +3,9 @@ Author:
   - Ширяев Антон
 tags:
   - tools
-date:
+  - задача
+date: 2024-11-10
 ---
-
 ## Задачи
 
 Запуск бенчмарка:
@@ -47,6 +47,8 @@ date:
 Как будто TensorRT + Triton inference server сразу) При этом поддерживаются не только nvidia GPU.
 Из объективного анализа фреймворков для сервинга привлекательнее всего выглядит именно vllm =)
 
+### sglang
+
 ### Другие
 
 1. [VL-CheckList](https://github.com/om-ai-lab/VL-CheckList) (2022)	
@@ -84,8 +86,6 @@ date:
 - поискать свой бенчмарк для VLLM для VQA    
 - тестировать его    
 - если не нашли то [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)    
-
-  
 
 Остальное:
 - Велосипед от Антона 
