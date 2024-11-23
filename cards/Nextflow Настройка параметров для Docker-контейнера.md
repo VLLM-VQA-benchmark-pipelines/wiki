@@ -1,3 +1,11 @@
+---
+Author:
+  - Овчинникова Юлия
+tags:
+  - nextflow
+  - pipeline
+date: 2024-11-23
+---
 
 DeepSeek
 

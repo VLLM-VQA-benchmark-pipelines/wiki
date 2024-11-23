@@ -1,3 +1,11 @@
+---
+Author:
+  - Овчинникова Юлия
+tags:
+  - prefect
+  - pipeline
+date: 2024-11-23
+---
 
 DeepSeek
 
