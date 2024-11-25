@@ -38,7 +38,7 @@ end date: 2024-11-25
 
 Лежит два файла и всё верно
 
-https://github.com/medphisiker/VLMEvalKit_docker
+https://github.com/VLLM-VQA-benchmark-pipelines/VLMEvalKit_experiments/tree/main/docker
 * проброс гпу
 * торч if cuda.is_aviable в оба файла
 ```
