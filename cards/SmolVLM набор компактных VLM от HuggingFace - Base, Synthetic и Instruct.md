@@ -1,3 +1,10 @@
+---
+Author:
+  - Овчинникова Юлия
+tags:
+  - smolvlm
+date: 0224-12-06
+---
 
 Пост в Telegram ([link](https://t.me/c/2429357431/63/701)) 
 @ai_machinelearning_big_data
