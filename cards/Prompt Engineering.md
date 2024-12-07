@@ -16,4 +16,6 @@ date: 2024-12-01
 	- [HuggingFace Chat](Промпт%20от%20HuggingFace%20Chat.md)
 	- [DeepSeek](Промпт%20от%20DeepSeek.md)
 	- [ChatGPT](Промпт%20от%20ChatGPT.md)
+	- [Gemini](Запрос%20промптов%20у%20модели%20Gemini%201.5%20Flash%20или%20Gemini%201.5%20Flash%20(AI%20Studio).md)
 7. Пункт InstructDoc (примеры промптов) [Обзор датасетов для задачи VQA](Обзор%20датасетов%20для%20задачи%20VQA.md)
+
