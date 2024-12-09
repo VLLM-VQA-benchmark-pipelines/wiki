@@ -1,13 +1,14 @@
 ---
 Author:
   - Ширяев Антон
-Implementer: 
+Implementer:
+  - Капустин Евгений
 tags:
   - Docker_image
   - VLLM
   - бенчмарк
   - MiniCPM_V_26
-start date: ""
+start date: 2024-12-07
 end date:
 ---
 # Описание задачи
