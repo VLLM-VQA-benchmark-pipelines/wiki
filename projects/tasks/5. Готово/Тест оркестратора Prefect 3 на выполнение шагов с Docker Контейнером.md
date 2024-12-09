@@ -50,5 +50,5 @@ print('torch.cuda.device_count()', torch.cuda.current_device())
 print('torch.cuda.get_device_name(0)', torch.cuda.get_device_name(0))
 ```
 # Результаты
-* Вердикт подходит ли Prefect нам
-* Если не подходит то NextFlow и Юлия + __________
+* В ходе тестов не удалось запустить последовательно несколько контейнеров в одной таске.
+* Вердикт подходит ли Prefect нам?  нет

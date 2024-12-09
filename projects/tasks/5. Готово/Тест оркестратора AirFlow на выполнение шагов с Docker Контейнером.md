@@ -50,5 +50,5 @@ print('torch.cuda.device_count()', torch.cuda.current_device())
 print('torch.cuda.get_device_name(0)', torch.cuda.get_device_name(0))
 ```
 # Результаты
-* Вердикт подходит ли Prefect нам
-* Если не подходит то NextFlow и Юлия + __________
+* Инструмент невероятно гибкий. Он подходит для построения системы. Пример их задачи можно посмотреть в репозитории  https://github.com/VLLM-VQA-benchmark-pipelines/pipeline_airflow
+* работу с ГПУ затестить не удалось, поскольку необходима дополнительная настройка WSL
